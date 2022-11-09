@@ -1,0 +1,7 @@
+name: Skyfallen
+version: "${project.version}"
+description: Fall to the void in the End - spawn in the overworld
+author: maksim2498
+
+main: space.moontalk.mc.skyfallen.Skyfallen
+api-version: 1.13
