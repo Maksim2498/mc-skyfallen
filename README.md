@@ -12,7 +12,7 @@
 ## About
 
 This is the small Bukkit plugin making you to spawn in the specified
-world when falling from the End or End-like dimension.
+world fall out of the End or End-like dimension.
 
 ## Config
 
