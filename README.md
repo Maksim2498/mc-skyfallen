@@ -7,7 +7,8 @@
 - [Index](#index);
 - [About](#about);
 - [Config](#config);
-- [Download](#download).
+- [Download](#download);
+- [Installation](#installation).
 
 ## About
 
@@ -25,3 +26,7 @@ Configuration file has only two entries:
 
 See [releases](https://github.com/Maksim2498/mc-skyfallen/releases)
 section and download desired version.
+
+## Installation
+
+Simply put downloaded .jar file and put it in the _plugins_ folder.
